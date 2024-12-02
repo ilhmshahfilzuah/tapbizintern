@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84694973826",
+    "project_id": "tagbiz-14104",
+    "storage_bucket": "tagbiz-14104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84694973826:android:1f8c77c7c94b40f8c1239b",
+        "android_client_info": {
+          "package_name": "mlf.techworq.tapbiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtMv-OijWhqfRxT6bW5k8DuNdr5GO4qeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
